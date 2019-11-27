@@ -15,3 +15,5 @@ fine tuning examples and codes using DistilBert on three ChineseGLUE(CLUE) tasks
 3. 小模型基准测评
 
 performance comparsion with albert_tiny, ernie_tiny.
+
+Join with us on chineseGLUE#163.com
