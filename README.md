@@ -3,6 +3,7 @@
 拟于12月16日发布 target to release on Dec 16th.
 
 拟发布内容 Contents：
+
 1.1 可下载的蒸馏模型，已经训练过 
 
 a pretrained chinese DistilBert, others can use it directly or  trained again on their own corpus; 
