@@ -35,5 +35,5 @@ Pruning（剪枝）：将模型中作用较小部分舍弃，而让模型更小�
 
 三、其他
 
-Join with us on chineseGLUE@163.com
+Contact with chineseGLUE@163.com to join us.
 
